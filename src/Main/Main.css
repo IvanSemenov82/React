@@ -1,0 +1,10 @@
+.main {
+    margin: 0 auto;
+    width: 1440px;
+}
+
+.mainImg {
+    width: 1440px;
+    position: absolute;
+    z-index: -1;
+}

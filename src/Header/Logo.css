@@ -1,0 +1,22 @@
+
+.logo {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    padding-left: 1%;
+}
+
+.logoLink {
+    display: flex;
+    align-items: center;
+}
+
+.logoImage {
+    width: 28px;
+    height: 28px;
+}
+
+.logoText {
+    width: 53px;
+    margin-left: 5px;
+}

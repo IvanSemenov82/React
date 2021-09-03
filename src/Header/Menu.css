@@ -1,0 +1,11 @@
+.menuItem {
+    list-style-type: none;
+    display: inline;
+    margin: 0 40px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
